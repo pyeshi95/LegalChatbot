@@ -1,0 +1,6 @@
+Flask
+openai
+PyPDF2
+numpy
+tiktoken
+pickle5
